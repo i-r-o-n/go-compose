@@ -1,1 +1,1 @@
-# go-compose
+some crazy tangent i went on one night in metaprogramming and composition abstraction
